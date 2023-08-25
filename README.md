@@ -14,20 +14,6 @@ The repository is organized into several categories, making it easy for you to e
 
 - **Miscellaneous**: A collection of diverse resources including interview question banks, lab setup instructions, and more.
 
-## How to Use
-
-1. Browse through the folders to find the category you're interested in.
-2. Click on the PDF file you want to read or download.
-3. Feel free to contribute by adding more PDFs or improving the existing content.
-
-## Contribute
-
-Contributions are welcome! If you have relevant PDFs or would like to improve the organization, feel free to open an issue or submit a pull request.
-
-## Disclaimer
-
-Please note that the content in this repository is for educational purposes only. Always adhere to ethical guidelines and respect applicable laws while using this information.
-
 ## License
 
 This repository is provided under the [MIT License](LICENSE). By contributing to this repository, you agree to abide by the terms of this license.
